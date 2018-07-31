@@ -11,5 +11,5 @@
     "receiveFromHost": "localhost",
     "receiveFromPort": 9000
   },
-  "path": "/"
+  "path": "/spheres/"
 }
