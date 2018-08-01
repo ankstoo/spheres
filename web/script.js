@@ -29,7 +29,7 @@ $("#buttonStart").click(function(){
 var sphereName = undefined
 var active = false
 var backgroundHue = undefined
-var cookieName = "user-name-7"
+var cookieName = "user-name-9"
 
 function start() {
 	var name = 'sphere_' + Math.random().toString(36).substr(2, 9);
